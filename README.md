@@ -1,2 +1,3 @@
-# NaMI
-ZaloÅ¾eno kvÅ¯li Ãºkolu do nÃ¡strojÅ¯ a moÅ¾nostÃ­ internetu.
+# 01
+
+Repozitáø jsem vytvoøil protoe to byl mùj úkol.
